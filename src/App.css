@@ -1,0 +1,8 @@
+.header {
+  text-align: center;
+  background-color: aqua;  
+  background-image: -moz-element();
+}
+.body1 {
+  background-color: burlywood;
+}
